@@ -1,6 +1,6 @@
 <h1>What is it for?</h1>
 
-<p>To join all meshes inside collection into single mesh (also recursive) in <strong>non-destructive</strong> way.</p>
+<p>It can be used to join all meshes inside collection into single mesh (also recursive) in <strong>non-destructive</strong> way.</p>
 <p>This might be useful for anyone who wants to optimize their game scenes by merging multiple meshes.</p>
 
 <h1>How to use it?</h1>
