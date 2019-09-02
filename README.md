@@ -5,7 +5,7 @@
 
 <h1>How to use it?</h1>
 
-<p>Right-click, collection in outliner (scene panel). You should see two options, at the end of the menu context list:</p>
+<p>Right-click collection in outliner (scene panel). You should see two options, at the end of the context menu:</p>
 <ul>
   <li><strong>Join</strong> all meshes assigned to selected collection.</li>
   <li><strong>Join Recursive</strong> all meshes assigned to selected collection <strong>AND</strong> all meshes in descendant collections.</li>
