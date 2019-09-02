@@ -1,3 +1,5 @@
+<img src="https://lonegamedev.com/wp-content/uploads/2019/09/join-collection.png" />
+
 <h1>What is it for?</h1>
 
 <p>It can be used to join all meshes inside collection into single mesh (also recursive) in <strong>non-destructive</strong> way.</p>
@@ -10,8 +12,6 @@
   <li><strong>Join</strong> all meshes assigned to selected collection.</li>
   <li><strong>Join Recursive</strong> all meshes assigned to selected collection <strong>AND</strong> all meshes in descendant collections.</li>
 </ul>
-
-<img src="https://lonegamedev.com/wp-content/uploads/2019/09/join-collection.png" />
 
 <p>Resulting object will be appended at the end of collection.</p>
 
