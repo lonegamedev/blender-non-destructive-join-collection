@@ -27,6 +27,7 @@ Use install feature (Edit/Preferences/Add-ons/Install) from inside of Blender
 
 don't forget to enable the addon (via preferences mentioned above) ;-)
 
-<h1>Credits:</h1>
+<h1>Credits</h1>
 <p>bmesh combine function taken from from https://github.com/nortikin/sverchok (GPL3 license)<p>
+  
 <h2>Cheers!</h2>
