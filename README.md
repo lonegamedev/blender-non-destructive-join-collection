@@ -17,7 +17,7 @@
 
 <p>Put this repo directory inside %BLENDER_DIR%/2.80/scripts/addons</p>
 
-<strong>OR</string>
+<strong>OR</strong>
 
 Use install feature (Edit/Preferences/Add-ons/Install) from inside of Blender
 
