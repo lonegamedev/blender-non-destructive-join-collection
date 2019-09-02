@@ -11,6 +11,8 @@
   <li><strong>Join Recursive</strong> all meshes assigned to selected collection <strong>AND</strong> all meshes in descendant collections.</li>
 </ul>
 
+<img src="https://lonegamedev.com/wp-content/uploads/2019/09/join-collection.png" />
+
 <p>Resulting object will be appended at the end of collection.</p>
 
 <h1>Installation</h1>
@@ -24,3 +26,7 @@ Use install feature (Edit/Preferences/Add-ons/Install) from inside of Blender
 <strong>AND</strong>
 
 don't forget to enable the addon (via preferences mentioned above) ;-)
+
+<h1>Credits:</h1>
+<p>bmesh combine function taken from from https://github.com/nortikin/sverchok (GPL3 license)<p>
+<h2>Cheers!</h2>
