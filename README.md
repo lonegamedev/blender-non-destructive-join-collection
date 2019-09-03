@@ -21,11 +21,14 @@
 
 <strong>OR</strong>
 
-Use install feature (Edit/Preferences/Add-ons/Install) from inside of Blender
+<p>Use install feature (Edit/Preferences/Add-ons/Install) from inside of Blender</p>
 
 <strong>AND</strong>
 
-don't forget to enable the addon (via preferences mentioned above) ;-)
+<p>don't forget to enable the addon (via preferences mentioned above) ;-)</p>
+
+<h1>Requires</h1>
+<p>Blender 2.80 obviously, since this is the version that introduced collections.</p>
 
 <h1>Credits</h1>
 <p>bmesh combine function taken from from https://github.com/nortikin/sverchok (GPL3 license)<p>
