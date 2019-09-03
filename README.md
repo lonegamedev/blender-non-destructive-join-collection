@@ -1,8 +1,6 @@
 <h1>What is it for?</h1>
 
-<p>Probably useful for anyone who wants to optimize their game scenes by merging multiple meshes.</p>
-
-<p>It allows you to join all meshes inside collection into new object. It should help with the workflow when creating complex scenes from mesh tiles.</p>
+<p>It helps to optimize complex scenes created from a mesh tiles, by adding option to <strong>non-destructively</strong> join all meshes inside collection into the new object.<p>
 
 <img src="https://lonegamedev.com/wp-content/uploads/2019/09/join-collection.png" />
 
@@ -30,6 +28,9 @@
 
 <h1>Requires</h1>
 <p>Blender 2.80 obviously, since this is the version that introduced collections.</p>
+
+<h1>To do:</h1>
+<p>Automatically set output's object origin to 3D cursor.<p>
 
 <h1>Credits</h1>
 <p>bmesh combine function taken from from https://github.com/nortikin/sverchok (GPL3 license)<p>
