@@ -14,6 +14,8 @@
 
 <p>Resulting object will be appended at the end of collection.</p>
 
+<div><img src="https://i.imgur.com/Vbggq6b.gif" /></div>
+
 <h1>Installation</h1>
 
 <p>Put inside %BLENDER_DIR%/2.80/scripts/addons</p>
