@@ -17,7 +17,7 @@
 
 <h1>Installation</h1>
 
-<p>Put this repo directory inside %BLENDER_DIR%/2.80/scripts/addons</p>
+<p>Put inside %BLENDER_DIR%/2.80/scripts/addons</p>
 
 <strong>OR</strong>
 
