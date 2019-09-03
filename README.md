@@ -1,7 +1,8 @@
 <h1>What is it for?</h1>
 
-<p>It can be used to join all meshes inside collection into single mesh (also recursive) in <strong>non-destructive</strong> way.</p>
-<p>This might be useful for anyone who wants to optimize their game scenes by merging multiple meshes.</p>
+<p>Probably useful for anyone who wants to optimize their game scenes by merging multiple meshes.</p>
+
+<p>It allows you to join all meshes inside collection into new object. It should help with the workflow when creating complex scenes from mesh tiles.</p>
 
 <img src="https://lonegamedev.com/wp-content/uploads/2019/09/join-collection.png" />
 
