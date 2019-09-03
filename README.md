@@ -34,5 +34,9 @@
 
 <h1>Credits</h1>
 <p>bmesh combine function taken from from https://github.com/nortikin/sverchok (GPL3 license)<p>
-  
+<p>Models used in gif:</p>
+<ul>
+  <li>https://sketchfab.com/3d-models/sunglasses-d060cd65cded40549379ca23d5f7a23d</li>
+  <li>https://sketchfab.com/3d-models/cowboy-hat-c048d51a2e9a4ee99262dc27058d8b9e</li>
+</ul>
 <h2>Cheers!</h2>
