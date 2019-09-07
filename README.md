@@ -31,9 +31,6 @@
 <h1>Requires</h1>
 <p>Blender 2.80 obviously, since this is the version that introduced collections.</p>
 
-<h1>To do:</h1>
-<p>Automatically set output's object origin to 3D cursor.<p>
-
 <h1>Credits</h1>
 <p>bmesh combine function taken from from https://github.com/nortikin/sverchok (GPL3 license)<p>
 <p>Models used in gif:</p>

@@ -103,6 +103,13 @@ def join_collection(context, recursive):
 
     final_obj = bpy.data.objects.new(final_object_name, mesh_data)
     sel_collection.objects.link(final_obj)
+
+    #delect all and select constructed object
+    for obj in bpy.context.scene.objects:
+        obj.select_set(False)
     final_obj.select_set(True)
+    bpy.context.view_layer.objects.active = final_obj
+    #set origin to cursor
+    bpy.ops.object.origin_set(type='ORIGIN_CURSOR')
 
     return True
